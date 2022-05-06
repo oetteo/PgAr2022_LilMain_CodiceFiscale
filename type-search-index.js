@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.unibs.fp.CodiceFiscale","l":"CodiceFiscaleMain"},{"p":"it.unibs.fp.CodiceFiscale","l":"CodiciFiscali"},{"p":"it.unibs.fp.CodiceFiscale","l":"Comune"},{"p":"it.unibs.fp.CodiceFiscale","l":"Persona"}];updateSearchResults();
